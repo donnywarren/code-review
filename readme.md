@@ -24,31 +24,34 @@ A code review will typically take place once you have completed a project or fea
 
 **The most important goal of any code review should be improving the code.**
 
+## Deliverables
+We will be giving you time to implement the feedback you receive in your code review later in the week before receiving a second round of review. Therefore, you should leave your code review(s) today with a list of changes and improvements you can make to your project.
+
 ## Tips for having a good code review
 
 1. Don't get personal! Don't get defensive! **Everyone** can improve as a developer and benefit from a code review. The goal is to help you improve your code by having someone else look over it.
-2. Review the right things! Is the code well structured? Is it readable? Those are the kinds of questions you should ask and answer. Not, "is it how I would have solved the problem?"
-3. Adopt a growth mindset. The goal is to help identify where and how you can improve the code.
+2. Review the right things! Is the code well structured? Is it readable? Those are the kinds of questions you should ask and answer. Not, is it how I would have solved the problem?
+3. Adopt a growth mindset. The goal is to help identify specific was for you to improve the code.
 
 ## You Do: Code Review
 ( 40 minutes / 0:55 )
 
-The class will pair up with other members of their squad to give and receive a code review for about 20 minutes each. Decide amongst yourself who will receive a code review first. Then, work through each set of the following questions as part of your review.
+The class will pair up to give and receive a code review for about 10 minutes each. Decide amongst yourself who will receive a code review first. Then, work through each set of the following questions as part of your review.
 
-**Setup and Overview** ( 5-10 minutes )
+**Setup and Overview** ( 2-5 minutes )
 
 - What was the project you were trying to build, in your own words?
 - How did you break the problem down in to smaller parts?
 - What were the key features of your MVP? Why?
 - What was the biggest challenge you faced working on this project?
 
-**Problem Solution** ( 5-10 minutes )
+**Problem Solution** ( 2-5 minutes )
 
 - What is the overall architecture or structure of your code base?
 - What are the key classes/functions? Why did you decide on these? What is each one doing?
 - What pieces of functionality are missing or incomplete in your project? What are the next steps to finishing them?
 
-**Bugs and Tweaks** ( 5 minutes )
+**Bugs and Tweaks** ( 2-5 minutes )
 
 - Are there any bugs still in the project? What might be causing them? How might they be fixed?
 - Are there parts of the code base that could be cleaned up so that they're easier to read and understand what is happening?
