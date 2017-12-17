@@ -25,7 +25,7 @@ A code review will typically take place once you have completed a project or fea
 **The most important goal of any code review should be improving the code.**
 
 ## Deliverables
-We will be giving you time to implement the feedback you receive in your code review later in the week before receiving a second round of review. Therefore, you should leave your code review(s) today with a list of changes and improvements you can make to your project.
+You should leave your code review(s) today with a list of changes and improvements you can make to your project.
 
 ## Tips for having a good code review
 
