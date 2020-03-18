@@ -33,7 +33,7 @@ You should leave your code review(s) today with a list of changes and improvemen
 
 ## You Do: Code Review
 
-The class will pair up to give and receive a code review for about 10 minutes each. Decide amongst yourself who will receive a code review first. Then, work through each set of the following questions as part of your review.
+The class will pair up to give and receive a code review for about 10-15 minutes each. Decide amongst yourself who will receive a code review first. Then, work through each set of the following questions as part of your review.
 
 **Setup and Overview**
 
